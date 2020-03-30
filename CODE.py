@@ -1,10 +1,6 @@
-# Submitted by
+# Author
 
-# S K Aravind, SXA190006
-
-# Paresh Dashore, PXD190004
-
-# PA2.py (Ensemble Methods)
+# S K Aravind
 
 
 
