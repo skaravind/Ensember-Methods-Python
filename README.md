@@ -3,10 +3,10 @@ Bagging and Boosting implementation (along with ID3 Decision tree) in pure Pytho
 
 Comparison made with SciKit Learn's algorithms.
 
-![Bagging_My_Algo](https://github.com/skaravind/Ensemble-Methods-Python/Bagging.png)
+![Bagging_My_Algo](https://github.com/skaravind/Ensemble-Methods-Python//blob/master/Bagging.png)
 
-![Bagging_sklearn](https://github.com/skaravind/Ensemble-Methods-Python/Bagging_scikit.png)
+![Bagging_sklearn](https://github.com/skaravind/Ensemble-Methods-Python//blob/master/Bagging_scikit.png)
 
-![Boosting_My_Algo](https://github.com/skaravind/Ensemble-Methods-Python/Boosting.png)
+![Boosting_My_Algo](https://github.com/skaravind/Ensemble-Methods-Python//blob/master/Boosting.png)
 
-![Boosting_sklearn](https://github.com/skaravind/Ensemble-Methods-Python/Boosting_scikit.png)
+![Boosting_sklearn](https://github.com/skaravind/Ensemble-Methods-Python//blob/master/Boosting_scikit.png)
